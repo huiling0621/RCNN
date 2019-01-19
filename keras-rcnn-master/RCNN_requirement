@@ -1,0 +1,4 @@
+其中scratch1表示每张图片贴标签后的.json文档；
+20个样本、30个样本、70个样本分别代表抽取不同样本数进行训练的结果；
+处理的图片在keras-rcnn-master/keras_rcnn/data1/shape/im中
+keras-rcnn-master/keras_rcnn/data1/shape中的training*.json,test*.json分别表示分的测试集和验证集
